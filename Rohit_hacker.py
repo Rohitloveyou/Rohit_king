@@ -810,19 +810,20 @@ logo = """
 
 \x1b[1;97m---------------------------------------------------
 
-\33[1;41mPOWERD BY ROHIT RAJPUT NEW PUBLIC TOOLS 💛👈 \33[0m
+\33[1;41mPOWERD BY ROHIT RAJPUT NEW PRIVATE
+ TOOLS 💛👈 \33[0m
 
 \x1b[1;97m---------------------------------------------------
 
 \x1b[1;97m[+] 𝗔𝗨𝗧𝗛𝗢𝗥  :   ROHITKING     
 
-\x1b[1;97m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :  AYUSH RAJPUT
+\x1b[1;97m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :  ROHIT RAJPUT
 
 \x1b[1;97m[+] 𝗚𝗜𝗧𝗛𝗨𝗕  :   ROHIT_BROKEN_LOVE_YOU
 
-\x1b[1;97m[+] 𝗧𝗘𝗔𝗠    :   \33[1;42  ALONE\33[0m
+\x1b[1;97m[+] 𝗧𝗘𝗔𝗠    :   \33[1;42  ROHIT RAJPUT\33[0m
 
-\x1b[1;97m[+] 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 :\x1b[1;97m  1.0.3    \x1b[1;97m          
+\x1b[1;97m[+] 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 :\x1b[1;97m  1.4.3    \x1b[1;97m          
 
 \x1b[1;97m--------------------------------------
 
